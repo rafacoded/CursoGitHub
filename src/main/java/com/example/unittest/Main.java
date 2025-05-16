@@ -1,17 +1,6 @@
 package com.example.unittest;
 
-import java.util.Calendar;
-import java.util.GregorianCalendar;
-import java.util.Locale;
-
 public class Main {
-    Calendar calendar = new GregorianCalendar(Locale.CANADA);
-
-    Calendar getCalendar() {
-        return calendar;
-    }
-
-
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("2 + 3 = " + add(2, 3));
