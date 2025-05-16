@@ -7,7 +7,7 @@ public class Main {
         System.out.println("5 - 2 = " + subtract(5, 2));
         System.out.println("4 * 3 = " + multiply(4, 3));
         System.out.println("8 / 2 = " + divide(8, 2));
-        System.out.println("Square of 5 = " + square(5));
+        System.out.println("5 al cuadrado = " + square(5));
         System.out.println("Square root of 16 = " + squareRoot(16));
         System.out.println("2^3 = " + Math.pow(2, 3));
         System.out.println("Factorial of 5 = " + factorial(5));
