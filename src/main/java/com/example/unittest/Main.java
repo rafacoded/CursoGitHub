@@ -10,7 +10,8 @@ public class Main {
         System.out.println("5 al cuadrado = " + square(5));
         System.out.println("Raíz cuadrada 16 = " + squareRoot(16));
         System.out.println("2 elevado a 3 = " + Math.pow(2, 3));
-        System.out.println("El factorial 5 = " + factorial(5));
+        System.out.println("El factorial de 5 = " + factorial(5));
+
     }
 
     public static int add(int a, int b) {
