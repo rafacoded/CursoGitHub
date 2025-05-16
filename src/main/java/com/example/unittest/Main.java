@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hola desde proyecto intellij");
         System.out.println("Segundo print");
-        System.out.println("2 + 3 = " + add(2, 3));
+        System.out.println("2 + 65 = " + add(2, 65));
         System.out.println("5 - 2 = " + subtract(5, 2));
         System.out.println("4 * 3 = " + multiply(4, 3));
         System.out.println("8 / 2 = " + divide(8, 2));
