@@ -48,7 +48,7 @@ public class Main {
 
     public static int factorial(int a) {
         if (a < 0) {
-            throw new IllegalArgumentException("Cannot take factorial of negative number");
+            throw new IllegalArgumentException("No se puede hacer el factorial de un número negativo");
         }
         int result = 1;
         for (int i = 1; i <= a; i++) {
