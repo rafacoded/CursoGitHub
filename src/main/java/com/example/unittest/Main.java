@@ -40,7 +40,7 @@ public class Main {
 
     public static int squareRoot(int a) {
         if (a < 0) {
-            throw new IllegalArgumentException("Cannot take square root of negative number");
+            throw new IllegalArgumentException("No se puede hacer la raíz cuadrada de un negativo");
         }
         return (int) Math.sqrt(a);
     }
